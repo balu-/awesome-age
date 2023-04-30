@@ -80,6 +80,8 @@ For more, explore [the *age-encryption* GitHub topic](https://github.com/topics/
 
 * [vanity-age](https://github.com/seaofmars/vanity-age) — Vanity age public key bruteforcer.
 
+* 🧪 [APass](https://github.com/balu-/a-pass#readme) - Passwordmanager with GUI and Browser Addon
+
 ## Integrations
 
 * [agenix](https://github.com/ryantm/agenix) — age-encrypted secrets for NixOS.
